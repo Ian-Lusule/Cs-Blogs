@@ -1,4 +1,4 @@
-# GitHub Blog Post Generator
+# Computer Science Blogs
 
 **Project Name:**  GitHubBlogPosts
 
