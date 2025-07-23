@@ -1,4 +1,3 @@
-```markdown
 ---
 title: Building a Custom Kubernetes Operator
 date: 2024-10-27
@@ -102,4 +101,4 @@ make deploy
 **Conclusion:**
 
 Building a custom Kubernetes operator requires understanding Kubernetes concepts, Go programming, and the Operator SDK.  This blog post provides a high-level overview and a starting point.  Further exploration of the Operator SDK documentation and Kubernetes API is recommended for more advanced implementations. Remember to replace the placeholder code with your actual implementation details.  This example provides a foundation for building more complex and sophisticated operators.
-```
+
