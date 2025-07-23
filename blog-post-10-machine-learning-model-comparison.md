@@ -1,4 +1,3 @@
-```markdown
 ---
 title: "A Comparative Study of Machine Learning Models for [Dataset Name]"
 date: 2024-10-27
@@ -68,4 +67,4 @@ This comparative study demonstrates the varying performance of different machine
 
 * [Link to the dataset]
 * [Link to the code repository]
-```
+  
