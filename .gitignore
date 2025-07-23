@@ -1,0 +1,83 @@
+```gitignore
+# Compiled files
+*.class
+*.o
+*.so
+*.pyc
+*.pyo
+*.exe
+*.dll
+*.zip
+*.tar.gz
+*.tar.bz2
+*.egg-info
+*.whl
+
+# IDE files
+.idea/
+*.iml
+*.csproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.DS_Store
+
+# Build files
+target/
+build/
+dist/
+out/
+obj/
+*.apk
+*.ipa
+
+# Package managers
+node_modules/
+package-lock.json
+yarn.lock
+Pipfile
+Pipfile.lock
+requirements.txt
+
+# Testing files
+*.test.*
+*.spec.*
+*.benchmark.*
+
+# Documentation
+docs/
+README.md.bak
+
+# Markdown files (if not intended to be tracked)
+*.md
+*.markdown
+
+# Specific language patterns
+# Python
+__pycache__/
+
+# Java
+*.jar
+
+# Go
+*.go-sum
+
+# JavaScript
+*.js.map
+
+# C#
+*.pdb
+
+
+# Temporary files
+Thumbs.db
+*.tmp
+*.log
+
+
+# Other common patterns
+*.bak
+*.swp
+*~
+```
