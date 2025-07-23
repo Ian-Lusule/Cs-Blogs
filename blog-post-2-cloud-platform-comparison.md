@@ -1,4 +1,3 @@
-
 ---
 title: Comparing Cloud Platforms: AWS, Azure, and GCP for Machine Learning
 date: 2024-10-27
