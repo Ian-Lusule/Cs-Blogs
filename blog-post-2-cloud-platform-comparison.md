@@ -1,4 +1,4 @@
-```markdown
+
 ---
 title: Comparing Cloud Platforms: AWS, Azure, and GCP for Machine Learning
 date: 2024-10-27
@@ -58,4 +58,4 @@ Before diving into the comparison, let's outline the crucial factors we'll consi
 ### Conclusion:
 
 The best cloud platform for your machine learning project depends on your specific needs and priorities.  This comparison provides a starting point for your decision-making process.  Consider your budget, existing infrastructure, technical expertise, and the specific requirements of your machine learning task to make an informed choice.  Remember to explore the free tiers offered by each provider to experiment and gain hands-on experience before committing to a long-term solution.
-```
+
