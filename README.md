@@ -18,7 +18,7 @@
 This project doesn't require installation.  You can directly access and use the Markdown files from the repository.  Simply clone the repository to your local machine:
 
 ```bash
-git clone <repository_url>
+git clone https://github.com/Ian-Lusule/Cs-Blogs.git
 ```
 
 **Usage:**
