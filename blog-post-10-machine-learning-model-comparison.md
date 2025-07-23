@@ -1,7 +1,7 @@
 ---
 title: "A Comparative Study of Machine Learning Models for [Dataset Name]"
 date: 2024-10-27
-author: "[Your Name]"
+author: "Ian Lusule"
 tags: ["machine learning", "model comparison", "[Dataset Name]", "[Model 1]", "[Model 2]", "[Model 3]", etc.]
 ---
 
