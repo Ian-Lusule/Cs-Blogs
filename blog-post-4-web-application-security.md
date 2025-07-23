@@ -1,4 +1,3 @@
-```markdown
 ---
 title: Securing Your Web Application: A Comprehensive Guide
 date: 2024-10-27
@@ -53,4 +52,4 @@ Web application security is an ongoing process, not a one-time task.  By impleme
 
 
 This blog post provides a starting point.  Further research and implementation tailored to your specific application are crucial for robust security.
-```
+
