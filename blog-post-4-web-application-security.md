@@ -1,7 +1,7 @@
 ---
-title: Securing Your Web Application: A Comprehensive Guide
+title: "Securing Your Web Application: A Comprehensive Guide"
 date: 2024-10-27
-author: Ian-Lusule
+author: "Ian-Lusule"
 tags: ["web security", "OWASP", "authentication", "authorization", "vulnerabilities"]
 ---
 
