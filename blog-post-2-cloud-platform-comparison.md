@@ -1,7 +1,7 @@
 ---
-title: Comparing Cloud Platforms: AWS, Azure, and GCP for Machine Learning
+title: "Comparing Cloud Platforms: AWS, Azure, and GCP for Machine Learning"
 date: 2024-10-27
-author: Ian Lusule
+author: "Ian Lusule"
 tags: ["cloud computing", "AWS", "Azure", "GCP", "machine learning", "comparison"]
 ---
 
