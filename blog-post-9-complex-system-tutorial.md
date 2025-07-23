@@ -1,8 +1,7 @@
-```markdown
 ---
 title: Building a Complex System: A Tutorial using React and Redux
 date: 2024-10-27
-author: Your Name Here
+author: Ian Lusule
 tags: react, redux, tutorial, complex systems, javascript, frontend
 ---
 
@@ -79,4 +78,4 @@ const handleAddToCart = (product) => {
 **Conclusion:**
 
 This tutorial provides a foundation for building more complex React applications using Redux.  Remember to handle error conditions, implement proper data validation, and consider using more advanced techniques as your application grows.  This example showcases a basic structure; a real-world application would require more robust error handling, API interaction, and potentially server-side rendering.  Further exploration of topics like asynchronous actions, middleware, and advanced Redux patterns is recommended for more sophisticated projects.  The complete code for this tutorial can be found in the accompanying repository.
-```
+
