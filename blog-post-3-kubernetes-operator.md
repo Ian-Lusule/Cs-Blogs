@@ -1,7 +1,7 @@
 ---
 title: Building a Custom Kubernetes Operator
 date: 2024-10-27
-author: Your Name
+author: Ian Lusule
 tags: kubernetes, operator, go, sdk, custom resource
 ---
 
