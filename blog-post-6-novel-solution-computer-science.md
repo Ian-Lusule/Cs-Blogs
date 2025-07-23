@@ -1,4 +1,3 @@
-
 ---
 title: A Novel Solution to the Traveling Salesperson Problem using Quantum Annealing
 date: 2024-10-27
