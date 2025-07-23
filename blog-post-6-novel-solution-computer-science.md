@@ -1,8 +1,8 @@
-```markdown
+
 ---
 title: A Novel Solution to the Traveling Salesperson Problem using Quantum Annealing
 date: 2024-10-27
-author: [Your Name]
+author: Ian Lusule
 tags: [TSP, Quantum Computing, Optimization, D-Wave, Quantum Annealing]
 ---
 
@@ -44,4 +44,4 @@ This post presented a novel approach to solving the TSP using quantum annealing.
 *   [Link to D-Wave documentation]
 *   [Link to relevant research papers]
 *   [Link to other relevant resources]
-```
+
