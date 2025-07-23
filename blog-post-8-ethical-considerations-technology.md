@@ -1,8 +1,7 @@
-```markdown
 ---
 title: Ethical Considerations of Artificial Intelligence in Healthcare
 date: 2024-10-27
-author: [Your Name/GitHub Username]
+author: Ian Lusule
 tags: ["AI", "Ethics", "Healthcare", "Machine Learning", "Bias"]
 ---
 
@@ -40,4 +39,4 @@ While AI can augment human capabilities, it should not replace human judgment en
 **Conclusion:**
 
 The ethical considerations surrounding AI in healthcare are complex and multifaceted.  Addressing these challenges requires a collaborative effort involving researchers, developers, healthcare professionals, policymakers, and the public.  By proactively addressing these ethical concerns, we can harness the transformative potential of AI while mitigating its risks and ensuring that it benefits all members of society.
-```
+
